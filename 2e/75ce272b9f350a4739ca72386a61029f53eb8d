@@ -1,0 +1,44 @@
+packages/views/locales/en/projects.json
+  s_523e3cbdb4ffd1::t_5fc51c6ae7f490 74
+packages/views/modals/create-project.tsx
+  s_523e3cbdb4ffd1::t_1ba1d3aade3097 496-517
+  s_523e3cbdb4ffd1::t_8e59f4ecceafdc 495
+  s_523e3cbdb4ffd1::t_cf4ecc0a2dde4f 4,139,142-145,459-465,483-493,519
+  s_523e3cbdb4ffd1::t_093ad2f9191905 494,518
+packages/views/locales/zh-Hans/modals.json
+  s_523e3cbdb4ffd1::t_5fc51c6ae7f490 108
+packages/views/projects/components/project-resources-section.tsx
+  s_523e3cbdb4ffd1::t_0d34093a7cf0be 5,42,56-58,115-121,139-149,187
+  s_523e3cbdb4ffd1::t_f4c9839651eb28 104-114,150,186
+  s_523e3cbdb4ffd1::t_bd611520c9572c 151
+  s_523e3cbdb4ffd1::t_0e41ec7698482d 152-185
+packages/views/locales/zh-Hans/projects.json
+  s_523e3cbdb4ffd1::t_5fc51c6ae7f490 74
+packages/views/locales/en/modals.json
+  s_523e3cbdb4ffd1::t_5fc51c6ae7f490 108
+packages/views/modals/create-project.test.tsx
+  s_523e3cbdb4ffd1::t_eaec36762473ab 4,45,171-176,183-186
+  s_523e3cbdb4ffd1::t_3d088f6d260897 177-182
+  s_523e3cbdb4ffd1::t_3fbfc46a39cfc3 8-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "2e75ce272b9f350a4739ca72386a61029f53eb8d",
+  "prompts": {},
+  "humans": {
+    "h_2b9b0756aae7f9": {
+      "author": "黄明洋 <mingyang.huang@ly.com>"
+    }
+  },
+  "sessions": {
+    "s_523e3cbdb4ffd1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e4ff2-6357-7523-af43-ed90690fa6c9",
+        "model": "gpt-5.5"
+      },
+      "human_author": "黄明洋 <mingyang.huang@ly.com>"
+    }
+  }
+}
