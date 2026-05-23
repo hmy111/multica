@@ -1,0 +1,19 @@
+packages/views/projects/components/project-resources-section.tsx
+  s_523e3cbdb4ffd1::t_a0d1c153be1b91 104-109
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "86bcc28ba0bedee096ca1b661cb5fae1664e73e1",
+  "prompts": {},
+  "sessions": {
+    "s_523e3cbdb4ffd1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e4ff2-6357-7523-af43-ed90690fa6c9",
+        "model": "gpt-5.5"
+      },
+      "human_author": "hmy111 <1440125981@qq.com>"
+    }
+  }
+}
