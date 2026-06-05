@@ -1,0 +1,21 @@
+packages/views/issues/components/issue-detail.test.tsx
+  s_571da8d5566cc6::t_2510161d24dfa5 128-132,510,540-600
+packages/views/issues/components/issue-detail.tsx
+  s_571da8d5566cc6::t_03c415cad31b0a 54,1143-1148,1800-1803
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "637f493f8ffd52932ff3ad246ab841a96bbd9eca",
+  "prompts": {},
+  "sessions": {
+    "s_571da8d5566cc6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e8dc4-c8df-7c32-9dc3-5284c01913f7",
+        "model": "gpt-5.5"
+      },
+      "human_author": "黄明洋 <mingyang.huang@ly.com>"
+    }
+  }
+}
